@@ -8,6 +8,7 @@
 #include <OneWire.h>
 #include <DallasTemperature.h>
 //Test
+//Added second test comment
 //Def
 #define myPeriodic 15 //in sec | Thingspeak pub is 15sec
 int Sensor= 0;
